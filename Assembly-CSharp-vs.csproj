@@ -52,7 +52,9 @@
      <Compile Include="Assets\PixelPerfect\Scripts\Internal\PixelPerfectObject.cs" />
      <Compile Include="Assets\PixelPerfect\Scripts\PixelPerfectCamera.cs" />
      <Compile Include="Assets\PixelPerfect\Scripts\PixelPerfectSprite.cs" />
-     <Compile Include="Assets\Scripts\CameraFollowScript.cs" />
+     <Compile Include="Assets\Scripts\Canvas\CameraFollowScript.cs" />
+     <Compile Include="Assets\Scripts\Canvas\CanvasColliderEgg.cs" />
+     <Compile Include="Assets\Scripts\Canvas\Ivy.cs" />
      <Compile Include="Assets\Scripts\ColliderEgg.cs" />
      <Compile Include="Assets\Scripts\TestMovementChar.cs" />
      <None Include="Assets\PixelPerfect\Scripts\Internal\Resources\PixelPerfectShader.shader" />

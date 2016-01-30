@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraFollowScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Canvas\CanvasColliderEgg.cs">
     <Files>
-      <File FileName="Assets\Scripts\ColliderEgg.cs" Line="40" Column="49" />
-      <File FileName="Assets\Scripts\TestMovementChar.cs" Line="9" Column="33" />
-      <File FileName="Assets\Scripts\CameraFollowScript.cs" Line="10" Column="74" />
+      <File FileName="Assets\Scripts\ColliderEgg.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Canvas\CanvasColliderEgg.cs" Line="40" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
