@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Canvas\CanvasColliderEgg.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Canvas\Ivy.cs">
     <Files>
       <File FileName="Assets\Scripts\ColliderEgg.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Canvas\CanvasColliderEgg.cs" Line="40" Column="40" />
+      <File FileName="Assets\Scripts\TestMovementChar.cs" Line="10" Column="14" />
+      <File FileName="Assets\Scripts\Canvas\Ivy.cs" Line="75" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

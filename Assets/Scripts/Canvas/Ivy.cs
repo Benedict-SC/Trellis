@@ -5,9 +5,9 @@ public class Ivy : MonoBehaviour {
 	
 	Vector2 footForce = new Vector2(10f,0);
 	Vector2 driftForce = new Vector2(8f,0);
-	Vector2 jumpForce = new Vector2(0f,300f);
-	float horizontalMaxVelocity = 11f;
-	float jumpMaxVelocity = 5f;
+	Vector2 jumpForce = new Vector2(0f,330f);
+	float horizontalMaxVelocity = 5f;
+	float jumpMaxVelocity = 6f;
 	float fallMaxVelocity = -10f;
 	float slopeAscentMaxVelocity = 2f;
 	
